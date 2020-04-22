@@ -1,0 +1,66 @@
+
+
+.head {
+    position: absolute;
+    width: 158px;
+    height: 37px;
+    left: 241px;
+    top: 174px;
+
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+    line-height: 37px;
+    letter-spacing: 0.03em;
+
+    color: #000000;
+}
+
+.service {
+    background-color: #7FC526;
+    position: absolute;
+    width: 155px;
+    height: 50px;
+    left: 1201px;
+    top: 184px;
+    font-family: 'Proxima Nova', sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 17px;
+    text-align: center;
+    border-radius: 10px;
+    color: white;
+}
+
+.messageIcon {
+    position: fixed;
+    left: 1354.43px;
+    top: 756px;
+    box-shadow: 0px 15px 15px rgba(0, 0, 0, 0.15);
+}
+
+.currency {
+    position: absolute;
+    width: 1090px;
+    height: 116px;
+    left: 256px;
+    top: 242.5px;
+
+    background: #FFFFFF;
+    /* Shadow */
+
+    box-shadow: 0px 4px 16px rgba(0, 0, 0, 0.28);
+    border-radius: 10px;
+}
+
+.accounts {
+    position: absolute;
+    width: 534px;
+    height: 485px;
+    left: 776px;
+    top: 379px;
+
+    background: #FFFFFF;
+
+    box-shadow: 0px 4px 16px rgba(0, 0, 0, 0.08);
+    border-radius: 10px;
+}

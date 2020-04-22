@@ -1,0 +1,24 @@
+.pay {
+    position: absolute;
+    width: 534px;
+    height: 485px;
+    left: 256px;
+    top: 379px;
+
+    background: #FFFFFF;
+    /* Shadow */
+
+    box-shadow: 0px 4px 16px rgba(0, 0, 0, 0.08);
+    border-radius: 10px;
+}
+
+.button4{
+    position:absolute;
+    top: 400px;
+    left: 30px;
+    width: 475px;
+    height: 42.5px;
+    border: 1px solid #D7D8D6;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
